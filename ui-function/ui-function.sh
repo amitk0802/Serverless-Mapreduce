@@ -1,0 +1,1 @@
+gcloud functions deploy ui-function --runtime python39 --trigger-http --allow-unauthenticated

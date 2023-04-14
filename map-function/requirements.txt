@@ -1,0 +1,5 @@
+# Function dependencies, for example:
+# package>=version
+nltk
+requests
+google-cloud-storage

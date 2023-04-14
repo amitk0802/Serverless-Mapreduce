@@ -1,0 +1,1 @@
+gcloud functions deploy map-function --runtime python39 --trigger-http --allow-unauthenticated

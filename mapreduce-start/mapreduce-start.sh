@@ -1,0 +1,1 @@
+gcloud functions deploy mapreduce-start --runtime python39 --trigger-http --allow-unauthenticated
